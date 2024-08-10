@@ -18,7 +18,7 @@
 #### Run this line in cmd/shell :  pip install -r requirements.txt
 
 
-####conda create -n mp python==3.9* 
-####CD ./..
-####pip install -r requirements.txt
-####python app.py
+#### conda create -n mp python==3.9* 
+#### CD ./..
+#### pip install -r requirements.txt
+#### python app.py
